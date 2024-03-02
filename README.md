@@ -1,4 +1,4 @@
-# System Identification of a Continuous and Stable 4th Order System (discrete time)
+# System Identification of a Stable 4th Order System (discrete time)
 
 In this analysis, we aim to identify the parameters of a continuous and stable 4th-order system described by the transfer function:
 
