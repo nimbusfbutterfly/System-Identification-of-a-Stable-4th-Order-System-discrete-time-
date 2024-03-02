@@ -4,6 +4,6 @@ In this analysis, we aim to identify the parameters of a continuous and stable 4
 
 \[ G(s) = \frac{s^3 + 7s^2 + 24s + 24}{(s+1)(s+2)(s+3)(s+4)} \]
 
-    ## Implementation
+## Implementation
     - MATLAB
 
